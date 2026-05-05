@@ -1,5 +1,5 @@
 {
-   "author": ["Nihad"],
+   "author": ["AFRAN"],
     "facebookAccount": {}
     "email": "afranrehman@gmail.com",
     "password": "",
@@ -19,6 +19,7 @@
   },
 "adminBot": [
     "100001218669910"
+   "100000677848894"
   ],
   "whiteListMode": {
     "enable": false,
